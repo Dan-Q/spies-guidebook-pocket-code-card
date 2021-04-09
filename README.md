@@ -6,6 +6,10 @@ Pages 24-25 of the 2007 edition propose a symmetric substitution cipher based on
 
 This repository contains a HTML+JS implementation of the cipher, plus a printable PDF for easily making a paper-based variant. An explanatory blog post will follow.
 
+## Try it
+
+You can try it online at https://danq.dev/spy-pocket-code/
+
 ## Usage
 
 To use the digital version, open `index.html` in your browser. Select two key cards using the dropdowns (you'll see a preview of them), and type your message into the first of the two text boxes below. The output will be shown in the second text box. As a symmetric cipher, use the same process to decode: put ciphertext in the top box, get plaintext out of the bottom.
