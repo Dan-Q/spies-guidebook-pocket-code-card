@@ -8,7 +8,7 @@ This repository contains a HTML+JS implementation of the cipher, plus a printabl
 
 ## Try it
 
-You can try it online at https://danq.dev/spy-pocket-code/
+You can try it online at https://danq.dev/spy-pocket-code/. There's an explanatory blog post at https://danq.me/2021/04/09/spys-guidebook-reborn/.
 
 ## Usage
 
